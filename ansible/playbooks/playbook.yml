@@ -1,0 +1,6 @@
+- host: deploy
+  task:
+    - name: Pull file from source
+      git:
+        repo: 'https://github.com/herbertreyes13j/SA_Practica3.git'
+        dest: /var/www/html

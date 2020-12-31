@@ -1,0 +1,2 @@
+[grupo_produccion]
+deploy ansible_host=34.122.216.249 ansible_user=ansible
